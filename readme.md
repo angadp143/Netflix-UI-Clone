@@ -1,7 +1,9 @@
 
-# Netflix UI Clone
+# [Netflix UI Clone](https://flixnet-ui-clone.netlify.app/)
 
 This project is a static clone of the Netflix user interface built using HTML and CSS. It aims to replicate the visual design and layout of Netflix's homepage. Please note that this project is **not responsive** and is designed primarily for desktop viewing.
+
+
 
 ## Features
 
@@ -9,6 +11,7 @@ This project is a static clone of the Netflix user interface built using HTML an
 - **Custom CSS Styling:** The project uses custom CSS to style the elements, making it look similar to Netflix.
 - **Static Content:** All content, including images and text, is static and does not involve any dynamic functionality.
 
+![Screenshot_26-8-2024_23448_flixnet-ui-clone netlify app](https://github.com/user-attachments/assets/69cbed2b-63f6-44d1-bd3d-a0389a5b0857)
 ## Installation
 
 To view the project locally:
